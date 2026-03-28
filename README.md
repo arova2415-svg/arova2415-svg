@@ -1,7 +1,9 @@
+<h1 align="center">Hi 👋, I'm AARON MARTINEZ</h1> <!-- CAMBIA TU NOMBRE -->
+
 <p align="center">
   <img src="unnamed (2).jpg" alt="unnamed (2)" width="100%"/>
 </p>
-<h1 align="center">Hi 👋, I'm AARON MARTINEZ</h1> <!-- CAMBIA TU NOMBRE -->
+
 
 <h3 align="center">
 Data Analyst | SQL | Python | Power BI
