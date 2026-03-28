@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="banner" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm AARON MARTINEZ</h1> <!-- CAMBIA TU NOMBRE -->
 
 <h3 align="center">
