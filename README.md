@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="banner" width="100%"/>
+  <img src="unnamed (2).jpg" alt="unnamed (2)" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm AARON MARTINEZ</h1> <!-- CAMBIA TU NOMBRE -->
 
